@@ -18,7 +18,7 @@ vars = {
   'freetype_android_revision':
     '66725768cdf758cfb3f9abf03cbf5e5a77f42088',
   'nwjs_git':
-    'https://github.com/nwjs',
+    'https://github.com/haroldjiang/nw.js.git',
   'google_toolbox_for_mac_revision':
     '038a2399b20e67ab17685e23ee873a66811fa107',
   'libfuzzer_revision':
